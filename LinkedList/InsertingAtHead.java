@@ -22,8 +22,9 @@ public class InsertingAtHead {
         public SinglyLinkedListNode tail;
 
         public SinglyLinkedList() {
-            this.head = null;
-            this.tail = null;
+            this.head =null;
+            
+            this.tail =null;
         }
 
       
